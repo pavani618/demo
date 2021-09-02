@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pwc-cicd", "pwc-cicd\pwc-cicd.csproj", "{DF04A18B-292F-406F-A0F4-7258863761BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF04A18B-292F-406F-A0F4-7258863761BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF04A18B-292F-406F-A0F4-7258863761BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF04A18B-292F-406F-A0F4-7258863761BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF04A18B-292F-406F-A0F4-7258863761BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D06FF261-A462-4B51-873D-51A80C898ACE}
+	EndGlobalSection
+EndGlobal
